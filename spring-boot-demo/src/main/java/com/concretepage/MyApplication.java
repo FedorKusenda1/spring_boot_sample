@@ -10,5 +10,5 @@ public class MyApplication {
 
 
 /*
-example for git   repository 
+example for 2.socend change git   repository 
 */
