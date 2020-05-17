@@ -7,3 +7,8 @@ public class MyApplication {
 		SpringApplication.run(MyApplication.class, args);
     }       
 }            
+
+
+/*
+example for git   repository 
+*/
